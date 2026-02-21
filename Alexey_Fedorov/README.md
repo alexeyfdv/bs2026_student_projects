@@ -16,4 +16,4 @@ But first i need to learn:
 - [ ] Python
 - [ ] Yet to be decided
 
-
+Thanks for your time to checkout!
